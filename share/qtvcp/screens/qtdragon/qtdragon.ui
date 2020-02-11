@@ -424,7 +424,7 @@ color: black;</string>
                 <number>0</number>
                </property>
                <property name="currentIndex">
-                <number>5</number>
+                <number>0</number>
                </property>
                <widget class="QWidget" name="help_Page1">
                 <property name="maximumSize">
@@ -476,11 +476,13 @@ color: black;</string>
     border-width: 3px;
     border-radius: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/step_off_width.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/step_off_width.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -542,11 +544,13 @@ color: black;</string>
     border-width: 3px;
     border-radius: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/extra_probe_depth.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/extra_probe_depth.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -615,11 +619,13 @@ color: black;</string>
     border-radius: 10px;
     padding: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/max_z_distance.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/max_z_distance.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -688,11 +694,13 @@ color: black;</string>
     border-radius: 10px;
     padding: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/max_xy_distance.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/max_xy_distance.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -761,11 +769,13 @@ color: black;</string>
     border-radius: 10px;
     padding: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/z_clearance.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/z_clearance.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -834,11 +844,13 @@ color: black;</string>
     border-radius: 10px;
     padding: 10px;
     background: rgb(245, 240, 255);
-	image: url(images/xy_clearance.png);
 }</string>
                    </property>
                    <property name="text">
                     <string/>
+                   </property>
+                   <property name="pixmap">
+                    <pixmap>../../images/qtdragon/images/xy_clearance.png</pixmap>
                    </property>
                    <property name="scaledContents">
                     <bool>true</bool>
@@ -16887,7 +16899,7 @@ color: black;</string>
                <number>2</number>
               </property>
               <property name="text">
-               <string>01:22:54 AM</string>
+               <string>12:53:08 PM</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignCenter</set>
@@ -17421,17 +17433,12 @@ color: black;</string>
   <slot>probe_help_next_clicked()</slot>
  </slots>
  <buttongroups>
-  <buttongroup name="boss_pocket_buttonGroup">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
-  <buttongroup name="cal_buttonGroup">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
   <buttongroup name="ridge_valley_buttonGroup">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
+  <buttongroup name="boss_pocket_buttonGroup">
    <property name="exclusive">
     <bool>false</bool>
    </property>
@@ -17447,6 +17454,11 @@ color: black;</string>
    </property>
   </buttongroup>
   <buttongroup name="outside_buttonGroup">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
+  <buttongroup name="cal_buttonGroup">
    <property name="exclusive">
     <bool>false</bool>
    </property>
