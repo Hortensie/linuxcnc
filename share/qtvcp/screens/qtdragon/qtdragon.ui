@@ -5083,7 +5083,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/back_left_outside_corner.png</normaloff>probe_icons/back_left_outside_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/back_left_outside_corner.png</normaloff>../../images/qtdragon/probe_icons/back_left_outside_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5130,7 +5130,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/back_middle_outside_edge.png</normaloff>probe_icons/back_middle_outside_edge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/back_middle_outside_edge.png</normaloff>../../images/qtdragon/probe_icons/back_middle_outside_edge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5177,7 +5177,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/back_right_outside_corner.png</normaloff>probe_icons/back_right_outside_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/back_right_outside_corner.png</normaloff>../../images/qtdragon/probe_icons/back_right_outside_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5224,7 +5224,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/left_side_edge.png</normaloff>probe_icons/left_side_edge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/left_side_edge.png</normaloff>../../images/qtdragon/probe_icons/left_side_edge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5271,7 +5271,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/z_top.png</normaloff>probe_icons/z_top.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/z_top.png</normaloff>../../images/qtdragon/probe_icons/z_top.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5318,7 +5318,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/right_side_edge.png</normaloff>probe_icons/right_side_edge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/right_side_edge.png</normaloff>../../images/qtdragon/probe_icons/right_side_edge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5365,7 +5365,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/front_left_outside_corner.png</normaloff>probe_icons/front_left_outside_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/front_left_outside_corner.png</normaloff>../../images/qtdragon/probe_icons/front_left_outside_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5412,7 +5412,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/front_middle_edge.png</normaloff>probe_icons/front_middle_edge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/front_middle_edge.png</normaloff>../../images/qtdragon/probe_icons/front_middle_edge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5459,7 +5459,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/front_right_outside_corner.png</normaloff>probe_icons/front_right_outside_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/front_right_outside_corner.png</normaloff>../../images/qtdragon/probe_icons/front_right_outside_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5569,7 +5569,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/inside_front_left_corner.png</normaloff>probe_icons/inside_front_left_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/inside_front_left_corner.png</normaloff>../../images/qtdragon/probe_icons/inside_front_left_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5655,7 +5655,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/inside_back_left_corner.png</normaloff>probe_icons/inside_back_left_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/inside_back_left_corner.png</normaloff>../../images/qtdragon/probe_icons/inside_back_left_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5702,7 +5702,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/y_plus.png</normaloff>probe_icons/y_plus.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/y_plus.png</normaloff>../../images/qtdragon/probe_icons/y_plus.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5749,7 +5749,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/z_top.png</normaloff>probe_icons/z_top.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/z_top.png</normaloff>../../images/qtdragon/probe_icons/z_top.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5796,7 +5796,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/inside_back_right_corner.png</normaloff>probe_icons/inside_back_right_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/inside_back_right_corner.png</normaloff>../../images/qtdragon/probe_icons/inside_back_right_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5843,7 +5843,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/y_minus.png</normaloff>probe_icons/y_minus.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/y_minus.png</normaloff>../../images/qtdragon/probe_icons/y_minus.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5890,7 +5890,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/x_minus.png</normaloff>probe_icons/x_minus.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/x_minus.png</normaloff>../../images/qtdragon/probe_icons/x_minus.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5937,7 +5937,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/inside_front_right_corner.png</normaloff>probe_icons/inside_front_right_corner.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/inside_front_right_corner.png</normaloff>../../images/qtdragon/probe_icons/inside_front_right_corner.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -5984,7 +5984,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/x_plus.png</normaloff>probe_icons/x_plus.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/x_plus.png</normaloff>../../images/qtdragon/probe_icons/x_plus.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6097,7 +6097,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/round_pocket.png</normaloff>probe_icons/round_pocket.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/round_pocket.png</normaloff>../../images/qtdragon/probe_icons/round_pocket.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6157,7 +6157,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/rect_boss.png</normaloff>probe_icons/rect_boss.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/rect_boss.png</normaloff>../../images/qtdragon/probe_icons/rect_boss.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6207,7 +6207,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/round_boss.png</normaloff>probe_icons/round_boss.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/round_boss.png</normaloff>../../images/qtdragon/probe_icons/round_boss.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6254,7 +6254,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/rect_pocket.png</normaloff>probe_icons/rect_pocket.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/rect_pocket.png</normaloff>../../images/qtdragon/probe_icons/rect_pocket.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6617,7 +6617,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_x_valley.png</normaloff>probe_icons/probe_x_valley.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_x_valley.png</normaloff>../../images/qtdragon/probe_icons/probe_x_valley.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6664,7 +6664,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_y_valley.png</normaloff>probe_icons/probe_y_valley.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_y_valley.png</normaloff>../../images/qtdragon/probe_icons/probe_y_valley.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6711,7 +6711,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_x_ridge.png</normaloff>probe_icons/probe_x_ridge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_x_ridge.png</normaloff>../../images/qtdragon/probe_icons/probe_x_ridge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -6758,7 +6758,7 @@ HELP</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_y_ridge.png</normaloff>probe_icons/probe_y_ridge.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_y_ridge.png</normaloff>../../images/qtdragon/probe_icons/probe_y_ridge.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -7083,7 +7083,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_corner_x_plus_edge_angle_r.png</normaloff>probe_icons/probe_corner_x_plus_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_corner_x_plus_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_corner_x_plus_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7130,7 +7130,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_corner_y_minus_edge_angle_r.png</normaloff>probe_icons/probe_corner_y_minus_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_corner_y_minus_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_corner_y_minus_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7177,7 +7177,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_back_edge_angle_r.png</normaloff>probe_icons/probe_back_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_back_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_back_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7224,7 +7224,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_left_edge_angle_r.png</normaloff>probe_icons/probe_left_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_left_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_left_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7271,7 +7271,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/z_top_r.png</normaloff>probe_icons/z_top_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/z_top_r.png</normaloff>../../images/qtdragon/probe_icons/z_top_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7318,7 +7318,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_right_edge_angle_r.png</normaloff>probe_icons/probe_right_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_right_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_right_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7365,7 +7365,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_corner_y_plus_edge_angle_r.png</normaloff>probe_icons/probe_corner_y_plus_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_corner_y_plus_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_corner_y_plus_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7412,7 +7412,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_corner_x_minus_edge_angle_r.png</normaloff>probe_icons/probe_corner_x_minus_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_corner_x_minus_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_corner_x_minus_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7459,7 +7459,7 @@ HELP</string>
                                   </property>
                                   <property name="icon">
                                    <iconset>
-                                    <normaloff>probe_icons/probe_front_edge_angle_r.png</normaloff>probe_icons/probe_front_edge_angle_r.png</iconset>
+                                    <normaloff>../../images/qtdragon/probe_icons/probe_front_edge_angle_r.png</normaloff>../../images/qtdragon/probe_icons/probe_front_edge_angle_r.png</iconset>
                                   </property>
                                   <property name="iconSize">
                                    <size>
@@ -7881,7 +7881,7 @@ OFFSET</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_cal_round_pocket.png</normaloff>probe_icons/probe_cal_round_pocket.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_cal_round_pocket.png</normaloff>../../images/qtdragon/probe_icons/probe_cal_round_pocket.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -7934,7 +7934,7 @@ OFFSET</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_cal_round_boss.png</normaloff>probe_icons/probe_cal_round_boss.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_cal_round_boss.png</normaloff>../../images/qtdragon/probe_icons/probe_cal_round_boss.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -8295,7 +8295,7 @@ Y ERROR</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_cal_square_boss.png</normaloff>probe_icons/probe_cal_square_boss.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_cal_square_boss.png</normaloff>../../images/qtdragon/probe_icons/probe_cal_square_boss.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -8348,7 +8348,7 @@ Y ERROR</string>
                                </property>
                                <property name="icon">
                                 <iconset>
-                                 <normaloff>probe_icons/probe_cal_square_pocket.png</normaloff>probe_icons/probe_cal_square_pocket.png</iconset>
+                                 <normaloff>../../images/qtdragon/probe_icons/probe_cal_square_pocket.png</normaloff>../../images/qtdragon/probe_icons/probe_cal_square_pocket.png</iconset>
                                </property>
                                <property name="iconSize">
                                 <size>
@@ -10495,7 +10495,7 @@ color: black;</string>
                       <string/>
                      </property>
                      <property name="pixmap">
-                      <pixmap>images/silver_dragon.png</pixmap>
+                      <pixmap>../../images/qtdragon/images/silver_dragon.png</pixmap>
                      </property>
                     </widget>
                    </item>
@@ -14414,7 +14414,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/z_minus_jog_button.png</normaloff>images/z_minus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/z_minus_jog_button.png</normaloff>../../images/qtdragon/images/z_minus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14458,7 +14458,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/x_minus_jog_button.png</normaloff>images/x_minus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/x_minus_jog_button.png</normaloff>../../images/qtdragon/images/x_minus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14532,7 +14532,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/y_plus_jog_button.png</normaloff>images/y_plus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/y_plus_jog_button.png</normaloff>../../images/qtdragon/images/y_plus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14612,7 +14612,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/y_minus_jog_button.png</normaloff>images/y_minus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/y_minus_jog_button.png</normaloff>../../images/qtdragon/images/y_minus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14692,7 +14692,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/x_plus_jog_button.png</normaloff>images/x_plus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/x_plus_jog_button.png</normaloff>../../images/qtdragon/images/x_plus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14772,7 +14772,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/z_plus_jog_button.png</normaloff>images/z_plus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/z_plus_jog_button.png</normaloff>../../images/qtdragon/images/z_plus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14810,7 +14810,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/a_minus_jog_button.png</normaloff>images/a_minus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/a_minus_jog_button.png</normaloff>../../images/qtdragon/images/a_minus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -14851,7 +14851,7 @@ RESET</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>images/a_plus_jog_button.png</normaloff>images/a_plus_jog_button.png</iconset>
+                      <normaloff>../../images/qtdragon/images/a_plus_jog_button.png</normaloff>../../images/qtdragon/images/a_plus_jog_button.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -15866,7 +15866,7 @@ MM/MIN</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>:/images/ccw_arrow.png</normaloff>:/images/ccw_arrow.png</iconset>
+                      <normaloff>:/../../images/qtdragon/images/ccw_arrow.png</normaloff>:/../../images/qtdragon/images/ccw_arrow.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -15995,7 +15995,7 @@ MM/MIN</string>
                     </property>
                     <property name="icon">
                      <iconset>
-                      <normaloff>:/images/cw_arrow.png</normaloff>:/images/cw_arrow.png</iconset>
+                      <normaloff>:/../../images/qtdragon/images/cw_arrow.png</normaloff>:/../../images/qtdragon/images/cw_arrow.png</iconset>
                     </property>
                     <property name="iconSize">
                      <size>
@@ -16899,7 +16899,7 @@ color: black;</string>
                <number>2</number>
               </property>
               <property name="text">
-               <string>12:53:08 PM</string>
+               <string>01:16:10 PM</string>
               </property>
               <property name="alignment">
                <set>Qt::AlignCenter</set>
@@ -17433,21 +17433,6 @@ color: black;</string>
   <slot>probe_help_next_clicked()</slot>
  </slots>
  <buttongroups>
-  <buttongroup name="ridge_valley_buttonGroup">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
-  <buttongroup name="boss_pocket_buttonGroup">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
-  <buttongroup name="clear_buttonGroup">
-   <property name="exclusive">
-    <bool>false</bool>
-   </property>
-  </buttongroup>
   <buttongroup name="inside_buttonGroup">
    <property name="exclusive">
     <bool>false</bool>
@@ -17458,12 +17443,27 @@ color: black;</string>
     <bool>false</bool>
    </property>
   </buttongroup>
+  <buttongroup name="boss_pocket_buttonGroup">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
   <buttongroup name="cal_buttonGroup">
    <property name="exclusive">
     <bool>false</bool>
    </property>
   </buttongroup>
+  <buttongroup name="clear_buttonGroup">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
   <buttongroup name="skew_buttonGroup">
+   <property name="exclusive">
+    <bool>false</bool>
+   </property>
+  </buttongroup>
+  <buttongroup name="ridge_valley_buttonGroup">
    <property name="exclusive">
     <bool>false</bool>
    </property>
